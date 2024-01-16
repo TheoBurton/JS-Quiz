@@ -17,7 +17,7 @@ No steps are required for installation.
 
 ## Usage
 
-https://theoburton.github.io/Password-Generator
+https://theoburton.github.io/JS-Quiz
 
 After navigating to the site, click start quiz will start the quiz and clicking on one of the answers should make a sound and open the next question page.
 
