@@ -5,8 +5,8 @@ var questionsEl = document.getElementById("questions")
 var endScreenEl = document.getElementById("end-screen")
 var questionTitleEl = document.getElementById("question-title")
 var choicesEL = document.getElementById("choices")
-var correctSound = new Audio('./assets/sfx/correct.wav');
-var incorrectSound = new Audio('./assets/sfx/incorrect.wav')
+var correctSound = new Audio('./sfx/correct.wav');
+var incorrectSound = new Audio('./sfx/incorrect.wav')
 var feedbackEL = document.getElementById("feedback")
 var questionIndex = 0;
 
